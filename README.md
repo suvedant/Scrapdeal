@@ -54,7 +54,7 @@ SCRAPDEAL/
 1. Clone the repository:
 
 ```
-https://github.com/suvedant/Scrapdeal
+https://github.com/suvedant/Scrapdeal.git
 ```
 
 2. Move project to XAMPP htdocs folder:
