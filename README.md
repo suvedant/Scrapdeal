@@ -54,7 +54,7 @@ SCRAPDEAL/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/SCRAPDEAL.git
+https://github.com/suvedant/Scrapdeal
 ```
 
 2. Move project to XAMPP htdocs folder:
@@ -90,84 +90,15 @@ http://localhost/SCRAPDEAL/
 ---
 
 ## 📸 Screenshots
-
-Signup page
- 
-Login page
- 
-
-
-
-OTP page 
- 
-OTP Verification
- 
-Email on users email id
- 
-Password reset page
- 
-
- 
- 
-Home Page before Login
- 
+<img width="944" height="1137" alt="image" src="https://github.com/user-attachments/assets/840ca7df-9920-4b18-a645-01c6b16ed42c" />
+<img width="944" height="363" alt="image" src="https://github.com/user-attachments/assets/99d9e711-f0fc-4043-9ed2-40e58aad9b0f" />
+<img width="944" height="684" alt="image" src="https://github.com/user-attachments/assets/5129df53-af93-4302-bc32-2cf1c5de2ab7" />
+<img width="944" height="704" alt="image" src="https://github.com/user-attachments/assets/7f0d2c3f-9a11-4d46-9ac6-5a065a08e5a1" />
+Buyers Page
+<img width="944" height="939" alt="image" src="https://github.com/user-attachments/assets/d32b0a52-6b68-499e-8003-7bc401bb5248" />
 
 
 
-Home page
- 
-
-
-
-Profile details with Logout button
- 
-
-Price List
- 
-
-
-Scrap Details
- 
-Submit with Pop-Up Msg 
- 
-
-About Page
- 
-Contact panel
- 
-
-
-
-Buyer Login 
- 
-Register
- 
-
-Buyer Home Page
- 
-
-
-
-
-
-
-
-Slot Booking Details send to seller
- 
-Admin Login 
- 
-
-
-
-
-
-
-
-
-Admin Page
- 
-Message Send to User’s Mail
- 
 
 
 ## 🔐 Future Enhancements
